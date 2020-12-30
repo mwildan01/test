@@ -4,7 +4,8 @@
 #include "can.h"
 #include "main.h"
 
-//Tambah header rabu 30-12-2020
+//Tambah header rabu siang
+//Tambah header rabu sore
 
 /*
  * ***************************  Define Handler  ***************************
